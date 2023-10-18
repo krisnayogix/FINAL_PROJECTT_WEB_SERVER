@@ -9,8 +9,8 @@ Pembuatan Web Server
 1. Apache
 2. SSH
 3. MariaDB
-4. MySQL
-5. PHP
+4. PHP
+5. Wordpress
 
 # Progres
 1. 18 Oktober 2023,  Install Ubuntu Server 22.04
@@ -18,3 +18,4 @@ Pembuatan Web Server
 3. 18 Oktober 2023,  Install Apache
 4. 18 Oktober 2023,  Install MariaDB
 5. 18 Oktober 2023,  Install PHP
+6. 18 Oktober 2023,  Install Wordpress
