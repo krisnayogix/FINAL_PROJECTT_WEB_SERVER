@@ -11,14 +11,11 @@ Web server adalah sebuah software (perangkat lunak) yang memberikan layanan beru
 # Service
 1. SSH
 2. Apache2
-3. MariaDB 10.3.38
-4. PHP
-5. WordPress 6.3.2
+3. PHP 8.1
 
 # Progres
 1. 18 Oktober 2023,  Install Ubuntu Server 22.04
 2. 18 Oktober 2023,  Install SSH
 3. 18 Oktober 2023,  Install Apache2
-4. 18 Oktober 2023,  Install MariaDB 10.3.38
-5. 18 Oktober 2023,  Install PHP
-6. 18 Oktober 2023,  Install WordPress 6.3.2
+4. 18 Oktober 2023,  Install PHP 8.1
+
