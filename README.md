@@ -10,12 +10,20 @@ Web server adalah sebuah software (perangkat lunak) yang memberikan layanan beru
 
 # Service
 1. SSH
-2. Apache2
+2. Apache2 ( Web Server )
 3. PHP 8.1
+4. Webmin ( Control Panel )
 
 # Progres
-1. 18 Oktober 2023,  Install Ubuntu Server 22.04
-2. 18 Oktober 2023,  Install SSH
-3. 18 Oktober 2023,  Install Apache2
-4. 18 Oktober 2023,  Install PHP 8.1
+1. Install Ubuntu Server 22.04
+2. Install SSH ( Default Ubuntu )
+3. Install Apache2
+   a. sudo apt install apache2
+   b. sudo ufw app list" - "sudo ufw allow 'Apache" - "sudo ufw status ( Untuk Mengaktifkan Port Apche Agar Bisa Diakses )
+4. Install Webmin
+   a. sudo apt install webmin
+   b. sudo ufw allow 10000" ( Mengakses Port 10000 )
+   c. Access Web "https://your_server:10000" ( Digunakan Untuk Control Panel )
+5. Tampilan Halaman HTML
+   
 
