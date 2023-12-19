@@ -18,11 +18,11 @@ Web server adalah sebuah software (perangkat lunak) yang memberikan layanan beru
 1. Install Ubuntu Server 22.04
 2. Install SSH ( Default Ubuntu )
 3. Install Apache2
-   a. sudo apt install apache2
-   b. sudo ufw app list" - "sudo ufw allow 'Apache" - "sudo ufw status ( Untuk Mengaktifkan Port Apche Agar Bisa Diakses )
+      "sudo apt install apache2"
+      "sudo ufw app list" - "sudo ufw allow 'Apache" - "sudo ufw status ( Untuk Mengaktifkan Port Apche Agar Bisa Diakses )"
 4. Install Webmin
-   a. sudo apt install webmin
-   b. sudo ufw allow 10000" ( Mengakses Port 10000 )
-   c. Access Web "https://your_server:10000" ( Digunakan Untuk Control Panel )
+      "sudo apt install webmin"
+      "sudo ufw allow 10000" ( Mengakses Port 10000 )"
+      "Access Web "https://your_server:10000" ( Digunakan Untuk Control Panel )"
 5. Tampilan Halaman HTML
    
