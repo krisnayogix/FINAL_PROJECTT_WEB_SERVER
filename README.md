@@ -25,5 +25,5 @@ Web server adalah sebuah software (perangkat lunak) yang memberikan layanan beru
    b. sudo ufw allow 10000" ( Mengakses Port 10000 )
    c. Access Web "https://your_server:10000" ( Digunakan Untuk Control Panel )
 5. Tampilan Halaman HTML
-   
 
+![Screenshot 2023-12-19 234907](https://github.com/krisnayogix/FINAL_PROJECTT_WEB_SERVER/assets/145538870/81569d10-7c7e-4f5b-9edd-897ea4317236)
