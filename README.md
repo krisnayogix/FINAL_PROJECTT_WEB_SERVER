@@ -27,5 +27,8 @@ Web server adalah sebuah software (perangkat lunak) yang memberikan layanan beru
       - "Access Web "https://your_server:10000" ( Digunakan Untuk Control Panel )"
 5. Install BIND9
       - "sudo apt install bind9 bind9utils bind9-doc"
-6. 
+
+# Tampilan HTML
+![image](https://github.com/krisnayogix/FINAL_PROJECTT_WEB_SERVER/assets/145538870/6d8dda5e-743b-4e32-9e3c-30e576db2351)
+
    
