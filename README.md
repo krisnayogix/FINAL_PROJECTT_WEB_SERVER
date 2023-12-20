@@ -7,12 +7,13 @@ Web server adalah sebuah software (perangkat lunak) yang memberikan layanan beru
 # Tools
 1. VirtualBox 7.0
 2. ISO Ubuntu Server 22.04.03 LTS
+3. Visual Studio Code
 
 # Service
 1. SSH
 2. Apache2 ( Web Server )
-3. PHP 8.1
-4. Webmin ( Control Panel )
+3. Webmin ( Control Panel )
+4. BIND9
 
 # Progres
 1. Install Ubuntu Server 22.04
@@ -24,5 +25,7 @@ Web server adalah sebuah software (perangkat lunak) yang memberikan layanan beru
       - "sudo apt install webmin"
       - "sudo ufw allow 10000" ( Mengakses Port 10000 )"
       - "Access Web "https://your_server:10000" ( Digunakan Untuk Control Panel )"
-5. Tampilan Halaman HTML
+5. Install BIND9
+      - "sudo apt install bind9 bind9utils bind9-doc"
+6. 
    
